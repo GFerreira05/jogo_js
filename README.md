@@ -1,4 +1,4 @@
-#Implementação no CSS
+# Implementação no CSS
 Animando os seguintes itens
 * Nave
 * Pessoa
